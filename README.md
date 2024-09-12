@@ -4,7 +4,8 @@ Meu nome é Lukas, tenho 21 anos e sou de Porto Velho, Rondônia. Eu amo program
 
 - 🖥️ Técnico em Informático pelo Instituto Federal de Rondônia.
 - 🎓 Cursando Tecnologia em Sistemas para Internet no Instituto Federal de Rondônia.
-- 👨‍💻 Trabalho como desenvolvedor frontEnd no Grupo Irmãos Gonçalves.
+- 👨‍💻 Trabalhei como desenvolvedor frontEnd no Grupo Irmãos Gonçalves/Porto Velho - RO.
+- 👨‍💻 Atualmente, sou servidor do Tribunal de Justiça de Rondônia - TJRO, lotado da divisão de segurança de tecnologia.
 - 🐱 Adoro gatos e café ☕.
 
 ## 💻 Tecnologias que sei mexer
