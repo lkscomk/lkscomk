@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Meu nome é Lukas, tenho 19 anos e sou de Porto Velho, Rondônia. Eu amo programar e estou sempre procurando aprender coisas novas na área de tecnologia. Aqui estão algumas informações sobre mim:
+Meu nome é Lukas, tenho 21 anos e sou de Porto Velho, Rondônia. Eu amo programar e estou sempre procurando aprender coisas novas na área de tecnologia. Aqui estão algumas informações sobre mim:
 
 - 🖥️ Técnico em Informático pelo Instituto Federal de Rondônia.
 - 🎓 Cursando Tecnologia em Sistemas para Internet no Instituto Federal de Rondônia.
